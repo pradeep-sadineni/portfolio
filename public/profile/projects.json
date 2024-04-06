@@ -1,0 +1,86 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "My Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/pradeep-sadineni/portfolio"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/dlibrary.jpg",
+            "title": "Digital Library",
+            "bodyText": "The digital library  provides a user-friendly platform to explore a diverse collection of books by various authors. Users can easily browse authors, view their books, and even contribute by adding new authors to enrich the library's content. This project aims to enhance accessibility to knowledge and foster a dynamic community of readers and writers.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/pradeep-sadineni/Online_Library"
+                }
+            ],
+            "tags" : [
+                "React",
+                "MongoDB",
+                "Node.js",
+                "Express.js"
+            ]
+        },
+        {
+            "image" : "images/projects/weather.jpg",
+            "title": "WeatherCast",
+            "bodyText": "- Weather app accessing real-time data through OpenWeatherMap API..\n - Provides users with current weather conditions and forecasts..\n - Offers intuitive interface for easy access to essential weather information.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/pradeep-sadineni/Weather_info"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "Html",
+                "CSS"
+            ]
+        },
+        {
+            "image" : "images/projects/study.jpeg",
+            "title": "Studyspot",
+            "bodyText": "- Study app aggregates top educational resources, aiding students in discovering the best materials for their studies..\n - Study app with user authentication ensures secure access to personalized study materials tailored to each user's needs.\n .",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/pradeep-sadineni/Student_dashboard/tree/login"
+                }
+            ],
+            "tags" : [
+                "React.js",
+                "Jwt Authentication",
+                "Mongo DB",
+                "Node.js"
+            ]
+        },
+        {
+            "image" : "images/projects/quiz.jpg",
+            "title": "Quiz Management System",
+            "bodyText": "- Console-based quiz management application integrating user authentication through DSA algorithms ensures secure access to user profiles and quiz data..\n - Allows users to authenticate their identities using robust DSA-based encryption methods, safeguarding sensitive information and ensuring privacy.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/pradeep-sadineni/QuizManagement"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Data Structures and Algorithms",
+                "Console Based"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "experiences": [
+        {
+            "title": "Project Intern",
+            "subtitle": "Henotic Technologies",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed a console-based quiz management application using Java, showcasing proficiency in OOP principles.",
+                "Implemented features like user authentication, question generation, and scoring mechanisms in the project.",
+                "Applied DSA concepts to optimize data handling within the application, ensuring efficiency and scalability."
+            ],
+            "dateText": "07/2023 – 09/2023"
+        }
+    ]
+}

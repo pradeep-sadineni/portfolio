@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/pradeep-sadineni/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/pradeep-sadineni"
+        },
+        {
+            "network" : "email",
+            "href": "pradeepsadineni2003@gmail.com"
+        }
+    ]
+}

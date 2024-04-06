@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Nov 2021 - Present",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"SRKR Engineering College",
+            "cardDetailedText": "CGPA - 9.08",
+            "icon" : {
+                "src": "images/education/srkr.jpeg"
+            }
+        },
+        {
+            "title": "Apr 2019-May 2021",
+            "cardTitle": "Intermediate",
+            "cardSubtitle":"Narayana Junior College",
+            "cardDetailedText": "Marks - 96.7%"
+        }
+    ]
+}
